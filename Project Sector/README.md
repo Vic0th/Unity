@@ -1,9 +1,11 @@
-Oynanış Bilgisi:
-Yön Tuşları : WASD
-Nişan alma : Mouse
-Ateş etme : Mouse Sol Tık
+# Project Sector
 
-Oyun Linkleri :
+### Oynanış Bilgisi:
+#### Hareket Tuşları : WASD
+#### Nişan alma : Mouse
+#### Ateş etme : Mouse Sol Tık
+
+### Oyun Linkleri :
 https://vic0th.itch.io/project-sector
 https://simmer.io/@jacket0/project-sector
 
