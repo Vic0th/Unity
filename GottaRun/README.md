@@ -1,4 +1,4 @@
-#### Oynanış:
+# Oynanış:
 
 ## WASD Yön hareketleri
 ## Space : Zıplama
