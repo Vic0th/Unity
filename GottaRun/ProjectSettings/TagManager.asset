@@ -5,7 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Bullets
-  - Characters
+  - Enemies
   layers:
   - Default
   - TransparentFX
@@ -17,7 +17,7 @@ TagManager:
   - 
   - Background
   - Foreground
-  - 
+  - Triggers
   - 
   - 
   - 
@@ -45,6 +45,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 1846176177
+    locked: 0
+  - name: Midground
+    uniqueID: 2287731195
     locked: 0
   - name: Foreground
     uniqueID: 202804745
