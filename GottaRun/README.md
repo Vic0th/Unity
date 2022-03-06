@@ -1,1 +1,0 @@
-# GottaRun tech demo
