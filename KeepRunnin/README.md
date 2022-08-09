@@ -1,5 +1,5 @@
 # KeepRunnin Tech Demo
-### Made by Furkan Sayan, Nergal Web Services
+### Made by Furkan Sayan & Giray Turna
 ## 
 # Controls:
 ### Keyboard ASD - Movement
