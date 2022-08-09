@@ -11,7 +11,7 @@
 ### Player has 3 lives, when he gets hurt (crashing on spikes), he'll respawn on the last checkpoint he has reached (UI for player hp isnt implemented just yet).
 ## 
 # Current Features:
-### Running, wall jumping and releasing, rope sliding, health system, checkpoint system.
+### Running, wall jumping and releasing, sliding, rope sliding, health system, checkpoint system.
 ## 
 # Upcoming Features:
-### New maps to choose, sliding, rolling, platforms, speed boosts, language support, save system etc.
+### New maps to choose, rolling, platforms, speed boosts, language support, save system etc.
